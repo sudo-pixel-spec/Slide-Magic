@@ -47,7 +47,7 @@ Follow these steps to get started:
    ```
 
 3. **Run the Game**  
-   Open the `index.html` file in your preferred browser.
+   Open the index.html OR ![SlideMagic](https://sudo-pixel-spec.github.io/Slide-Magic/) file in your preferred browser.
 
 ---
 
