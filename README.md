@@ -52,7 +52,7 @@ Follow these steps to get started:
 ---
 
 ## **Screenshots**  
-![Slide Magic Gameplay](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
+![Slide Magic Gameplay]()
 
 ---
 
